@@ -1,0 +1,222 @@
+body{
+    background-color: #1e91ed;
+}
+
+body .seccion_main{
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-color: #ffa8df;
+    overflow: hidden;
+}
+
+.seccion_main .titulo{
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+
+    background-color: #97ffbd;
+    color: #af4ace;
+    box-shadow: 0px 0px 50px #009dff;
+
+    font-size: 60px;
+    font-family: fantasy;
+    font-style: oblique;
+}
+
+.seccion_main .texto{
+    padding: 0px 5px;
+
+    font-family: serif;
+    font-style: italic;
+    font-size: 40px;
+    text-align: justify;
+    text-shadow: 0px 0px 10px red;
+
+    color: #37023a;
+}
+
+.seccion_main .ol{
+    margin-left: 50px;
+
+    text-shadow: 0px 0px 10px red;
+}
+
+.seccion_main .lista:nth-of-type(1){
+    color: #01c4e7;
+
+    font-size: 50px;
+}
+
+.seccion_main .lista:nth-of-type(2){    
+    color: #fea444;
+
+    font-size: 50px;
+}
+
+.seccion_main .lista:nth-of-type(3){
+    color: #491d88;
+
+    font-size: 50px;
+}
+
+.seccion_main .lista:nth-of-type(4){
+    color: #2ef8a0;
+
+    font-size: 50px;
+}
+
+.seccion_main .lista:nth-of-type(5){
+    color: #c501e2;
+
+    font-size: 50px;
+}
+
+.seccion_main .imagen_1{
+    width: 40%;
+    margin-left: 5%;
+    margin-bottom: 50px;
+
+    background-color: #ff4fb2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 100px #4fff9c;
+
+
+    float: left;
+}
+
+.imagen_1 .imagen{
+    width: 90%;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.seccion_main .imagen_2{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 10%;
+    margin-bottom: 50px;
+
+    background-color: #ff4fb2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 100px #4fff9c;
+
+    float: left;
+}
+
+.imagen_2 .imagen{
+    width: 90%;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.seccion_main .imagen_3{
+    width: 40%;
+    margin-left: 5%;
+    margin-bottom: 100px;
+
+    background-color: #ff4fb2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 100px #4fff9c;
+
+    float: left;
+}
+
+.imagen_3 .imagen{
+    width: 90%;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.seccion_main .imagen_4{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 10%;
+    margin-bottom: 100px;
+
+    background-color: #ff4fb2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 100px #4fff9c;
+
+    float: left;
+}
+
+.imagen_4 .imagen{
+    width: 90%;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* seccion propuesta */
+.seccion_propuesta{
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-color: #a2b38b;
+    overflow: hidden;
+}
+
+/* this js page was develop by brayanSesh 2022/04/30 */
+
+.seccion_propuesta .titulo{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+
+    background-color: #ffbf75;
+    color: #af4ace;
+    box-shadow: 0px 0px 50px #75b5ff;
+
+    font-size: 60px;
+    font-family: fantasy;
+    font-style: oblique;
+}
+
+.seccion_propuesta .boton{
+    display: inline-block;
+
+    width: auto;
+    margin-left: 20%;
+    border: 2px darkblue dashed;
+
+    background-color: #75c7ff;
+    color: white;
+
+    font-size: 40px;
+}
+
+.seccion_propuesta .boton:hover{
+    background-color: #0026ff98;
+}
+
+
+/* seccion vidio */
+.seccion_musica{
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-color: #9d5353;
+    overflow: hidden;
+}
+
+.seccion_musica .video{
+    display: block;
+
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
